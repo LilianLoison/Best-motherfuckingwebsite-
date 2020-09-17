@@ -12,7 +12,7 @@
 <link rel="stylesheet" type="text/css" href="869113e02d4a3308760e91c031063393.css">
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="manifest" href="/site.webmanifest"></head>
 <style type="text/css">body{margin:90px
-auto;max-width:800px;line-height:1.2;font-size:16px; font-family: Arial; </style>
+auto;max-width:800px;line-height:1.2;font-size:16px; font-family: Arial; text-align : justify </style>
 
   <style>
     U { color: #A70000; }
@@ -120,14 +120,24 @@ auto;max-width:800px;line-height:1.2;font-size:16px; font-family: Arial; </style
 <h2>Put some pictures</h2>
 <div class="fancyPositioning"><div class="picture-left"><figure>
 
-<div class="tleft"><p>We're not looking at a novel by Stephanie Meyer, this is a <span class="mfw">motherfuckingwebsite</span> so include some pictures to give a context.</p><p>The website shouldn't be overfilled with pictures, but it should make the user happy while reading your nonsense words.</p>
-<p>Look how happy I look when i'm using html language. Use html too, be happy.</p></div></div>
-  <img
+
+<td>
+  <left><img
     src="monkey omer.jpeg" 
     alt="[exactement moi si ça fonctionne]"
     height="150px" 
     width="150px"
 />
+</left>
+</td>
+<td>
+<right>We're not looking at a novel by Stephanie Meyer, this is a <span class="mfw">motherfuckingwebsite</span> so include some pictures to give a context.</p>
+  <p>The website shouldn't be overfilled with pictures, but it should make the user happy while reading your nonsense words.</p>
+<p>Look how happy I look when i'm using html language. Use html too, be happy.</p></right></td>
+
+
+
+
 <figcaption>Me when I use html language</figcaption></figure></div>
 <h2>Yes, even this is satire.</h2>
 <p>But this doesn't mean you should load your <span class="mfw">motherfuckingwebsite</span> with shitty animations, instead keep it simple, minify its resources and use images responsibly. Remember the IPoAC users, <less>requests (with a small size) = faster load time!</less></p>
